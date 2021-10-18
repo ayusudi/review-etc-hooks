@@ -1,0 +1,42 @@
+[
+  { 
+    "task" : "Belajar EJS", 
+    "status" : true, 
+    "UserId" : 1
+  },
+  { 
+    "task" : "Belajar Express", 
+    "status" : true, 
+    "UserId" : 1
+  },
+  { 
+    "task" : "Belajar Sequelize", 
+    "status" : false, 
+    "UserId" : 1
+  },
+  { 
+    "task" : "Brainstroming Pair Project", 
+    "status" : true, 
+    "UserId" : 2
+  },
+  { 
+    "task" : "Briefing LC", 
+    "status" : true, 
+    "UserId" : 2
+  },
+  { 
+    "task" : "Belajar CSS", 
+    "status" : false, 
+    "UserId" : 3
+  },
+  { 
+    "task" : "Belajar Sequelize", 
+    "status" : false, 
+    "UserId" : 3
+  },
+  { 
+    "task" : "Live Code", 
+    "status" : false, 
+    "UserId" : 3
+  }
+]
